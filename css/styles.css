@@ -261,6 +261,10 @@ h1, h2, h3, h4, h5, h6 {
         height: auto;
         width: auto;
     }
+    
+    .carousel-inner{
+        padding: 20%;
+    }
 
     .cta-btn{
         margin: 5%;
